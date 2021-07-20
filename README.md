@@ -1,1 +1,3 @@
-So that means everything is possible.
+Everything started for & with helping...
+
+Never give up and never forget that everything is possible!
