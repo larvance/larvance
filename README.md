@@ -1,7 +1,7 @@
-Dancing's when I think of you...
+<i>Dancing's when I think of you...</i>
 
-Dancing's what clears my soul...
+<i>Dancing's what clears my soul...</i>
 
-Dancing's what makes me whole...
+<i>Dancing's what makes me whole...</i>
 
 <!-- Dancin - Aaron Smith -->
