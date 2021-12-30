@@ -1,7 +1,3 @@
-<i>Dancing's when I think of you...</i>
+**You know when you're in love, you can't fall asleep...**
 
-<i>Dancing's what clears my soul...</i>
-
-<i>Dancing's what makes me whole...</i>
-
-<!-- Dancin - Aaron Smith -->
+<i>Because reality is finally better than dreams...</i>
