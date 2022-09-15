@@ -9,8 +9,7 @@
 
 ### Languages and Tools:
 
-<img src="./imgs/intellij.png" width="26px" title="Intellij Ultimate">
-<img src="./imgs/cs.png" width="26px" title="C#">
+<img src="./imgs/intellij.png" width="26px" title="Intellij Ultimate"><img src="./imgs/cs.png" width="26px" title="C#">
 <img src="./imgs/rust.png" width="26px" title="Rust">
 <img src="./imgs/java.png" width="26px" title="Java">
 <img src="./imgs/javafx.png" width="26px" title="JavaFX">
