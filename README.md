@@ -3,8 +3,8 @@
 ## I'm a student and a developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Things I will do in 2023: QuizMile 👀
+- 👯 I’m looking to collaborate with other developers
+- 🥅 Things I will make in 2023: QuizMile 👀
 - ⚡ Fun fact: I love to play piano
 
 ### Languages and Tools:
