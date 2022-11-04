@@ -2,7 +2,7 @@
 
 ## I'm a student and a developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Things I will make in 2023: QuizMile 👀
 - ⚡ Fun fact: I love to play piano
