@@ -38,7 +38,7 @@
 ### *A fool is known by his speech; and a wise man by silence.*
 \- Pythagoras
 
-<center><img src="https://github-readme-streak-stats.herokuapp.com?user=larvance&theme=tokyonight_duo&border_radius=10" style="margin-top: 30px"></center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=larvance&theme=tokyonight_duo&border_radius=10" style="margin-top: 30px">
 
 <!-- old :p Silence is better than unmeaning words. - Pythagoras -->
 
