@@ -63,10 +63,10 @@
   </a>
   <a href="https://github.com/larvance">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=larvance&theme=transparent" />
-  </a><br>
+  </a><!--<br>
   <a href="https://github.com/larvance">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larvance&langs_count=10&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larvance&langs_count=10&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide-border=true&background=transparent" />
+  </a>-->
 </p>
 </details>
 
