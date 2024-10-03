@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm larvance.<br>
+        I'm larvance. I'm currently studying Mechanical Engineering at Marmara University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://leetcode.com/larvance">
