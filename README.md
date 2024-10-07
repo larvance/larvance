@@ -38,6 +38,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/larvance)
 [![p5.js](https://img.shields.io/badge/p5.js-black?style=for-the-badge&logo=p5.js)](https://github.com/larvance)
 [![matter.js](https://img.shields.io/badge/matter.js-black?style=for-the-badge&logo=matter.js)](https://github.com/larvance)
+[![SDL](https://img.shields.io/badge/sdl-black?style=for-the-badge&logo=sdl)](https://github.com/larvance)
 
 ### OS
 
