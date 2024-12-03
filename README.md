@@ -10,9 +10,6 @@
     <a href="https://leetcode.com/larvance">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
     </a>
-    <a href="https://discord.gg/emAhrw3mvM">
-        <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" alt="LeetCode">
-    </a>
 </p>
 
 ### Languages
