@@ -7,9 +7,9 @@
         I'm currently studying Mechanical Engineering at Marmara University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://leetcode.com/larvance">
+    <!--I mean I don't even use it so, might as well remove it. <a href="https://leetcode.com/larvance">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
-    </a>
+    </a>-->
 </p>
 
 ### Languages
