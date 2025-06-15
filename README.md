@@ -7,7 +7,7 @@
     </a>-->
 </p>
 
-<details>
+<details align="center">
 <p align="center">
   <a href="https://github.com/larvance">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larvance&theme=transparent" />
