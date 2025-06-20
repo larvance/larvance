@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm larvance!</h1>
+<h1 align="center">Hey, I'm larvance</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Self-taught+Fullstack+Developer;8+years+of+programming+experience;Student+at+Marmara+University;Low-level+enthusiast;An+AI+practitioner&center=true&width=500&height=50" alt="Typing SVG"><br>
-    <!--I mean I don't even use it so, might as well remove it. <a href="https://leetcode.com/larvance">
-        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
-    </a>-->
+I’ve been coding since I was 10, mostly out of curiosity. Over the years, I’ve worked on a wide range of projects from games, compilers, scripting languages, neural networks, backend systems to hardware simulations like custom CPUs.
+</p>
+
+<p align="center">
+I’ve used languages like C, C++, Python, C#, TypeScript, Java, Kotlin, and PHP across different kinds of projects. I don’t focus on a single domain because I enjoy learning how things work in depth, whether it’s low-level systems or high-level design.
+</p>
+
+<p align="center">
+If you're into the same kind of deep technical exploration, I'd genuinely enjoy talking, feel free to reach out. Discord: larvance
 </p>
 
 <details align="center">
@@ -17,10 +22,7 @@
   </a>
   <a href="https://github.com/larvance">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=larvance&theme=transparent" />
-  </a><!--<br>
-  <a href="https://github.com/larvance">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larvance&langs_count=10&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide-border=true&background=transparent" />
-  </a>-->
+  </a>
 </p>
 </details>
 
