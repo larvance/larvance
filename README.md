@@ -13,22 +13,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/larvance" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/larvance" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 </p>
 
 <details align="center">
   <p align="center">
     <a href="https://github.com/larvance">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larvance&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larvance&theme=transparent"/>
     </a>
     <a href="https://github.com/larvance">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=larvance&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=larvance&theme=transparent"/>
     </a>
   </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/larvance">
-    <img src="https://komarev.com/ghpvc/?username=larvance&color=blue&style=for-the-badge)" />
+    <img src="https://komarev.com/ghpvc/?username=larvance&color=blue&style=for-the-badge)"/>
   </a>
 </p>
