@@ -1,6 +1,6 @@
-<img src="./imgs/banner.png">
-
 <h1 align="center">Hey, I'm larvance</h1>
+
+<img src="./imgs/banner.png">
 
 <p align="center">
   I’ve been coding since I was 10, mostly out of curiosity. Over the years, I’ve worked on a wide range of projects from games, compilers, scripting languages, neural networks, backend systems to hardware simulations like custom CPUs.
