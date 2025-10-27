@@ -1,3 +1,5 @@
+<img src="./imgs/banner.png">
+
 <h1 align="center">Hey, I'm larvance</h1>
 
 <p align="center">
