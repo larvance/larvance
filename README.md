@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm larvance</h1>
 
-<img src="./imgs/banner_v2.png">
-<p align="center"><sub><em>I made the image on top. (For me) The best shows and movies I watched: Arcane, Your Name., Violet Evergarden, The Amazing Digital Circus, Hazbin Hotel</em></sub></p>
+<img src="./imgs/banner_v3.png">
+<p align="center"><sub><em>The image I made on top shows the best shows and movies I watched: Arcane, Your Name., Violet Evergarden, The Amazing Digital Circus, Hazbin Hotel</em></sub></p>
 
 <p align="center">
   I’ve been coding since I was 10, mostly out of curiosity. Over the years, I’ve worked on a wide range of projects from games, compilers, scripting languages, neural networks, backend systems to hardware simulations like custom CPUs.
