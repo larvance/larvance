@@ -33,5 +33,5 @@
   </a>
 </p>
 
-<img src="./imgs/banner_v4.png">
+<img src="./imgs/banner_v5.png">
 <p align="center"><sub><em>The image on top shows my favorite shows and movies: Arcane, Your Name., Violet Evergarden, The Amazing Digital Circus, Hazbin Hotel</em></sub></p>
