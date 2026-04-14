@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  If you're into the same kind of deep technical exploration, I'd genuinely enjoy talking, feel free to reach out. Discord: larvance
+  If you're into the same kind of deep technical exploration, I'd genuinely enjoy talking, feel free to reach out.
 </p>
 
 <p align="center">
