@@ -12,7 +12,7 @@
   If you're into the same kind of deep technical exploration, compilers, or simulation physics, I'd genuinely enjoy talking—feel free to reach out.
 </p>
 
-<p align="center"><sub><em>Note to curious people, my github commit count at the bottom of my page is not correct, it quadrupled when I changed my username and updated all my repos. So it's about 4x more than what it should be.</em></sub></p>
+<p align="center"><sub><em>Note to curious people, my github commit count at the bottom of my page is not correct, it quadrupled when I changed my username and updated all my repos. So it's about 4x more than what it should be. (I changed it around 9th-10th Oct 2026)</em></sub></p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/larvance" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
